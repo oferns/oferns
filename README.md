@@ -1,7 +1,6 @@
 ### Ollie Ferns. Software Developer.
 
-Hi, I'm Ollie. I'm a professional software developer and systems builder. This is my personal github account where I publish my Nuget packages and other
-personal repositories. Some are forks. Some are abandoned. Most are me just messing about.
+Hi, I'm Ollie. I'm a professional software developer and systems builder. This is my personal github account where I keep my personal repositories. Some are forks. Some are abandoned. Most are me just messing about.
 
 ## Private repositories and contributions
 
